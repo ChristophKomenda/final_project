@@ -40,11 +40,6 @@ const Footer = () => {
           </div>
         </div>
       </section>
-      <div className='copyright'>
-        <Link to="https://stephenrivero.vercel.app/" target='_blank'>
-          Stephen Rivero 2023 © All rights reserved
-        </Link>
-      </div>
     </footer>
   )
 }
